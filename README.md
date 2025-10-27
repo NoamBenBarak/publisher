@@ -1,8 +1,8 @@
-# Browsi Admin Web Application
+# Publisher Admin Web Application
 
 ## Overview
 
-The Browsi Admin Web Application is a single-page application built with Angular for managing publishers, domains, and monetization strategies. This app allows users to oversee their publishers, edit publisher information, and manage domains effectively.
+This Admin Web Application is a single-page application built with Angular for managing publishers, domains, and monetization strategies. This app allows users to oversee their publishers, edit publisher information, and manage domains effectively.
 
 ## Features
 
@@ -35,7 +35,7 @@ The Browsi Admin Web Application is a single-page application built with Angular
 
 ### Server (Node.js)
 1. **Clone the Repository**: Clone the Node.js project repository.
-    git clone https://github.com/NoamBenBarak/server_browsi.git
+    git clone https://github.com/NoamBenBarak/publisher.git
 
 2. **Install Dependencies**: Navigate to the Node.js project directory and install the required packages.
     npm install
